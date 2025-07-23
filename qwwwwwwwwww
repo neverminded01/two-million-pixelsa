@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Two Million Pixel Homepage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🧱 Two Million Pixel Homepage</h1>
+    <p>Hover over a block to see info. Click to visit the linked website. Use your mouse wheel or pinch to zoom.</p>
+  </header>
+  <main id="wrapper">
+    <div id="pixel-grid"></div>
+  </main>
+  <div id="tooltip"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
